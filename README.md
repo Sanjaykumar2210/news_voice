@@ -34,9 +34,9 @@ To run this project locally, follow these steps:
 - The application should now be running on http://localhost:3000.
 
 ## Demo link
-- https://alsum.netlify.app/
 
-![Screenshot (44)]()
+
+![Screenshot (46)](https://github.com/Sanjaykumar2210/news_voice/assets/112607521/a7812805-f2b0-49fb-b2a1-03a1f6dd5971)
 
 
 ## Support
